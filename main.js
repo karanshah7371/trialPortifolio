@@ -1,8 +1,8 @@
 import 'style.css'
 
-import * as THREE from 'https://cdn.skypack.dev/three@0.134.0';
+import * as THREE from 'js/three.js';
 
-import { OrbitControls } from 'https://cdn.skypack.dev/three@0.134.0/examples/jsm/controls/OrbitControls.js';
+import { OrbitControls } from 'js/three.js';
 
 const scene = new THREE.Scene();
 
